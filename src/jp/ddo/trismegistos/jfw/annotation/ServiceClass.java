@@ -10,9 +10,6 @@ import java.lang.annotation.Target;
  * 
  * @author y_sugasawa
  * @since 2012/03/31
- * @version $Rev: 18 $<br>
- *          $Date: 2012-06-09 11:23:49 +0900 (土, 09 6 2012) $<br>
- *          $Author: aigis.developer@gmail.com $
  */
 @Target(ElementType.FIELD)
 @Retention(RetentionPolicy.RUNTIME)
